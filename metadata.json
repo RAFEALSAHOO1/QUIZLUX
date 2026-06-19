@@ -1,0 +1,8 @@
+{
+  "name": "QuizLux",
+  "description": "Luxury Interactive Quiz Platform - A college project MERN application featuring secure authentication, AI quiz generator, comprehensive dashboard analytics, and real-time styled leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
